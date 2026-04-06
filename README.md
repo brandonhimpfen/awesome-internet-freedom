@@ -51,6 +51,7 @@ Internet freedom encompasses digital rights, censorship resistance, secure commu
 - [Proton VPN](https://protonvpn.com/) – Secure and privacy-focused VPN with free tier.
 - [Mullvad VPN](https://mullvad.net/) – VPN with no email requirement and anonymous payment options.
 - [PrivacyTools.io](https://www.privacytools.io/) – Recommendations for privacy-respecting tools and services.
+- [VerifySMS](https://verifysms.app/) – Disposable virtual phone numbers in 200+ countries for receiving SMS verification codes without exposing your real number.
 
 ## Secure Communication
 
