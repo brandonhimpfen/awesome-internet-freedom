@@ -67,6 +67,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NetBlocks Explorer](https://explorer.netblocks.org/) – Visualize and report internet disruptions worldwide.
 - [Censored Planet](https://censoredplanet.org/) – Ongoing study of global censorship.
 - [OONI Probe](https://ooni.org/install/) – Open-source tool for measuring internet censorship.
+- [Voidly Censorship Explorer](https://huggingface.co/spaces/emperor-mew/voidly-censorship-explorer) – Interactive Gradio app for querying global censorship data: per-country accessibility checks, AI services watchlist, censorship index, topic filters.
+- [Voidly Check Action](https://github.com/voidly-ai/voidly-check-action) – GitHub Action to verify your services aren't blocked in target countries using real OONI measurements.
 
 ## Legal & Policy Resources
 
