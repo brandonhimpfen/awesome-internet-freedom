@@ -67,6 +67,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NetBlocks Explorer](https://explorer.netblocks.org/) – Visualize and report internet disruptions worldwide.
 - [Censored Planet](https://censoredplanet.org/) – Ongoing study of global censorship.
 - [OONI Probe](https://ooni.org/install/) – Open-source tool for measuring internet censorship.
+- [Voidly Censorship Index](https://voidly.ai/censorship-index) – AI-powered censorship intelligence with 19.6M live measurements across 119 countries, 5,356 documented incidents, and ML-based detection.
+- [Voidly CLI](https://www.npmjs.com/package/@voidly/cli) – Command-line tool to query global censorship data from your terminal. `npx @voidly/cli check <domain> <country>`
 
 ## Legal & Policy Resources
 
