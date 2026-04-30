@@ -61,6 +61,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Element (Matrix)](https://element.io/) – Secure, decentralized communication built on the Matrix protocol.
 - [Session](https://getsession.org/) – Private messenger that doesn’t require phone numbers.
 - [Keybase](https://keybase.io/) – Encrypted chat, file sharing, and GitHub identity verification.
+- [Cyber Collector](https://t.me/cybercollectorbot) – Free Telegram bot for downloading videos from TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, and Facebook privately — no signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Censorship Monitoring & Reporting
 
