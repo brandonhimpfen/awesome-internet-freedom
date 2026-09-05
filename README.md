@@ -1,4 +1,4 @@
-# Awesome Internet Freedom [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Internet Freedom [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010371509.svg)](https://doi.org/10.5281/zenodo.19680466)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -82,10 +82,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Curated list of tools and resources to protect your privacy.
-- **[Awesome VPN](https://github.com/awesomelistsio/awesome-tor)** – VPN and Tor-related tools and information.
-- **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)** – Platforms for transparency and civic engagement.
-- **[Awesome Digital Rights](https://github.com/awesomelistsio/awesome-digital-rights)** – Projects and resources defending digital rights.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Curated list of tools and resources to protect your privacy.
+- **[Awesome VPN](https://github.com/brandonhimpfen/awesome-tor)** – VPN and Tor-related tools and information.
+- **[Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)** – Platforms for transparency and civic engagement.
+- **[Awesome Digital Rights](https://github.com/brandonhimpfen/awesome-digital-rights)** – Projects and resources defending digital rights.
 
 ## Contribute
 
